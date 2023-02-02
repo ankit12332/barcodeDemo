@@ -1,0 +1,7 @@
+### Create a new User
+Post http://localhost:3000/barcode/items
+Content-Type: application/json
+
+{
+    "name": "Abcde"
+}
